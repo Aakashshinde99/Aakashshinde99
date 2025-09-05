@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">A passionate Software Engineer From India</h2>
+<h2 align="center">A passionate Embedded Engineer From India</h2>
 
 ###
 
